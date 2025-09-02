@@ -141,6 +141,14 @@ main h2 {
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
 }
 
+#code-block {
+  padding: 10px;
+  padding-top: 0;
+  border-radius: 6px;
+  background-color: #1b082f;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
 #tab-content h3 {
   margin: 0;
 }

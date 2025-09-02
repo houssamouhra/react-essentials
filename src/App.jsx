@@ -18,7 +18,7 @@ function App() {
       <div id='tab-content'>
         <h3>{EXAMPLES[selectedTopic].title}</h3>
         <p>{EXAMPLES[selectedTopic].description}</p>
-        <pre>
+        <pre id='code-block'>
           <code>{EXAMPLES[selectedTopic].code}</code>
         </pre>
       </div>
