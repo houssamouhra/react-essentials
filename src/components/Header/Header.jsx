@@ -3,7 +3,7 @@ const reactDescriptions = ["Fundamental", "Crucial", "Core"];
 
 const genRandomInt = (max) => Math.floor(Math.random() * (max + 1));
 
-export const Header = () => {
+export default function Header() {
   const description = reactDescriptions[genRandomInt(2)];
   return (
     <header>
@@ -15,4 +15,4 @@ export const Header = () => {
       </p>
     </header>
   );
-};
+}
