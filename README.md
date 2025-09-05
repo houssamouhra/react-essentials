@@ -7,12 +7,12 @@ It was created as part of the **React - The Complete Guide** course on Udemy.
 
 ### React Essentials
 
-_Components, JSX & State_
-
 - Building User Interfaces with **Components**
 - Using, Sharing & Outputting **Data**
 - Handling User **Events**
 - Building Interactive UIs with **State**
+- Using **Slots** / **Children** for Flexible Layouts
+- **Dynamically Rendering Components** & HTML Elements
 
 ## 📦 Installation
 
