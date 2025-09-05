@@ -13,6 +13,7 @@ It was created as part of the **React - The Complete Guide** course on Udemy.
 - Building Interactive UIs with **State**
 - Using **Slots** / **Children** for Flexible Layouts
 - **Dynamically Rendering Components** & HTML Elements
+- Setting **Default Prop Values** for Components
 
 ## 📦 Installation
 
